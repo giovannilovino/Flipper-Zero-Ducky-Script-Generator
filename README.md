@@ -11,18 +11,18 @@
 
 ---
 
-## 🌟 English Overview 🌟
+##  English Overview 
 
 **DuckyGen** is a professional, on-device DuckyScript generator and editor. Designed with the "Hacker Duck" aesthetic, it empowers you to write, edit, and execute BadUSB attacks directly from your Flipper Zero without needing a computer.
 
-### 🚀 Key Features
+###  Key Features
 - **🎯 Multi-OS Targeting:** Windows, macOS, Linux, Android, and iOS.
 - **🛠️ Professional Editor:** Move, duplicate, and insert lines with a modern UI.
 - **⚡ Quick Run (The Enforcer):** Handover scripts directly to the Bad KB app in one click.
 - **⌨️ Visual Builder:** Create complex combinations like `CTRL+ALT+DEL` visually.
 - **📦 Smart Templates:** Start with pre-built payloads for fast deployment.
 - **👁️ Full Preview:** See exactly what you'll run before you save it.
-- **🎩 Exclusive Branding:** Features the "Monocle Duck" custom menu icon.
+  
 
 ### 🛠️ Installation
 1. Move the `DuckyGen` folder to `/applications_user/`.
@@ -31,18 +31,18 @@
 
 ---
 
-## 🌟 Türkçe Genel Bakış 🌟
+##  Türkçe Genel Bakış 🌟
 
 **DuckyGen**, Flipper Zero için geliştirilmiş profesyonel bir cihaz içi DuckyScript oluşturucu ve düzenleyicidir. "Hacker Ördek" estetiğiyle tasarlanan bu uygulama, bilgisayara ihtiyaç duymadan BadUSB saldırıları yazmanıza, düzenlemenize ve çalıştırmanıza olanak tanır.
 
-### 🚀 Öne Çıkan Özellikler
+###  Öne Çıkan Özellikler
 - **🎯 Çoklu İşletim Sistemi:** Windows, macOS, Linux, Android ve iOS için özel scriptler.
 - **🛠️ Profesyonel Düzenleyici:** Satır taşıma, kopyalama ve ekleme işlemlerini modern arayüzle yapın.
 - **⚡ Hızlı Çalıştır (Quick Run):** Scriptleri tek tıkla yerleşik Bad KB uygulamasına devredin.
 - **⌨️ Görsel Yapıcı:** `CTRL+ALT+DEL` gibi karmaşık tuş kombinasyonlarını görsel olarak oluşturun.
 - **📦 Akıllı Şablonlar:** Hızlı kurulum için hazır kod parçacıklarıyla başlayın.
 - **👁️ Tam Önizleme:** Kaydetmeden önce scriptin tam halini kaydırarak inceleyin.
-- **🎩 Özel Markalama:** "Monokl Gözlüklü Ördek" özel menü ikonuyla birlikte gelir.
+  
 
 ### 🛠️ Kurulum
 1. `DuckyGen` klasörünü `/applications_user/` dizinine taşıyın.
