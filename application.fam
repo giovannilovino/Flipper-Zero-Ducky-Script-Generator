@@ -1,0 +1,11 @@
+App(
+    appid="ducky_gen",
+    name="DuckyGen",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="ducky_gen_app",
+    requires=["gui", "dialogs", "storage", "loader"],
+    stack_size=2 * 1024,
+    fap_icon="ducky_gen.png",
+    fap_category="BadUSB",
+    fap_icon_assets="assets",
+)

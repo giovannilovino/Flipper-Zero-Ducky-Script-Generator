@@ -1,0 +1,24 @@
+# Flipper Zero Build Artifacts
+build/
+dist/
+*.fap
+*.elf
+*.bin
+*.map
+*.d
+*.o
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# DuckyGen specific temporary files
+*.tmp
+icon.pbm
+icon_gen.py
