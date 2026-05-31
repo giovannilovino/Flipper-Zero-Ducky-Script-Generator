@@ -2,7 +2,7 @@
 #include "../helpers/ducky_script.h"
 #include <furi.h>
 #include <gui/elements.h>
-#include <gui/view_i.h>
+#include <gui/view.h> //change new SDK
 
 struct EditorView {
     View* view;
