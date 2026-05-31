@@ -9,7 +9,7 @@
 #include <gui/modules/widget.h>
 #include <gui/scene_manager.h>
 #include <gui/view_dispatcher.h>
-#include <notification/notification_app.h>
+#include <notification/notification_messages.h> //Change new SDK
 #include <storage/storage.h>
 #include <loader/loader.h>
 
